@@ -1,10 +1,15 @@
 # markdown-it-replace-link
 
+[![Build Status](https://img.shields.io/travis/GerHobbelt/markdown-it-replace-link/master.svg?style=flat)](https://travis-ci.org/GerHobbelt/markdown-it-replace-link)
+[![NPM version](https://img.shields.io/npm/v/@gerhobbelt/markdown-it-replace-link.svg?style=flat)](https://www.npmjs.org/package/@gerhobbelt/markdown-it-replace-link)
+[![Coverage Status](https://img.shields.io/coveralls/GerHobbelt/markdown-it-replace-link/master.svg?style=flat)](https://coveralls.io/r/GerHobbelt/markdown-it-replace-link?branch=master)
+
 > markdown-it plugin for replacing links (image & text) in the markdown document.
 
 ## Usage
 
 #### Enable plugin
+
 
 ```js
 var md = require('markdown-it')({
