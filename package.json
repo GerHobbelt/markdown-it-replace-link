@@ -1,6 +1,6 @@
 {
   "name": "@gerhobbelt/markdown-it-replace-link",
-  "version": "1.0.0-1",
+  "version": "1.0.1-1",
   "description": "markdown-it plugin for replacing links (image & text) in the markdown document.",
   "keywords": [
     "markdown",
